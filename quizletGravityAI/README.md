@@ -2,7 +2,7 @@
 
 This Python Script automatically play's Quizlet's Gravity Game (windows only). 
 
-BEFORE THE PROGRAM WIIL OPERATE, YOU MUST DO A COUPLE OF TASKS:
+BEFORE THE PROGRAM WILL OPERATE, YOU MUST DO A COUPLE OF TASKS:
 
 1. Download Tesseract from https://github.com/tesseract-ocr/docs
 2. Move Tesseract to any folder on your computer and COPY the path into line 6 of main.py
