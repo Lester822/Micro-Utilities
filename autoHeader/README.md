@@ -5,12 +5,19 @@ It will also ask if you would like to tar the files in the folder for easy submi
 The header wil be in this format:
 
 '''
+
 Author: NAME
+
 KUID: ID
+
 Date: DATE CREATED
+
 Lab: LAB NUM
+
 Last modified: DATE LAST MODIFIED
+
 Purpose: USER GIVEN PURPOSE
+
 '''
 
 NAME and ID are gotten from config.txt, which will be automatically created
